@@ -22,9 +22,6 @@ https://github.com/Armed-Mob/MinecraftThings-NeoForged/blob/main/LICENSE.txt
 Additional Resources: 
 ==========
 Community Documentation: https://docs.neoforged.net/  
-
-NeoForged Discord: https://discord.neoforged.net/
-
-ArmedMob Discord: https://discord.gg/fPrqPYkxXK
-
-MinecraftThings Documentation:
+NeoForged Discord: https://discord.neoforged.net/  
+ArmedMob Discord: https://discord.gg/fPrqPYkxXK  
+MinecraftThings Documentation:  
