@@ -1,6 +1,7 @@
 
 MinecraftThings - NeoForged 1.21.x
 =======
+[![BuildStatus](https://github.com/Armed-Mob/MinecraftThings-NeoForged?branch=main)](https://github.com/Armed-Mob/MinecraftThings-NeoForged)
 
 This repository can be directly cloned to get you started with a modifying MinecraftThings
 mod. Simply create a new repository cloned from this one, by following the
